@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574843627993.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "775202CC",
+    "lastKnownWriteTime" : 1574843658,
+    "last_content_update" : 1574846401582,
+    "path" : "~/Dropbox/Cousera/Course2/Week4/Assignment3/outcome.R",
+    "project_path" : "outcome.R",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

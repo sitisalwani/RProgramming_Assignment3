@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574845415749.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "428473500",
+    "id" : "394FC21F",
+    "lastKnownWriteTime" : 1574845424,
+    "last_content_update" : 1574845525327,
+    "path" : "~/Dropbox/Cousera/Course2/Week4/Assignment3/rankall.R",
+    "project_path" : "rankall.R",
+    "properties" : {
+        "cursorPosition" : "52,0",
+        "scrollLine" : "39",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

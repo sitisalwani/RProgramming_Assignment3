@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574843688360.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B0CACF25",
+    "lastKnownWriteTime" : 1574844273,
+    "last_content_update" : 1574845233807,
+    "path" : "~/Dropbox/Cousera/Course2/Week4/Assignment3/best.R",
+    "project_path" : "best.R",
+    "properties" : {
+        "cursorPosition" : "31,2",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

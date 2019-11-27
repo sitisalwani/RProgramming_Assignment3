@@ -1,0 +1,11 @@
+# install.packages("data.table")
+library("data.table")
+
+# Reading in data
+options(jupyter.plot_mimetypes = 'image/png') # making my plots inline
+outcome[, 11] <- as.numeric(outcome[, 11])
+
+hist(outcome[, 11],xlab="30-day death rates from heart attack",
+     main ="Histogram of the 30-day death rates from heart attack",
+     col='skyblue',border='white')
+

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574845326640.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "953179305",
+    "id" : "3DD08B47",
+    "lastKnownWriteTime" : 1574845377,
+    "last_content_update" : 1574845483481,
+    "path" : "~/Dropbox/Cousera/Course2/Week4/Assignment3/rankhospital.R",
+    "project_path" : "rankhospital.R",
+    "properties" : {
+        "cursorPosition" : "55,0",
+        "scrollLine" : "42",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
